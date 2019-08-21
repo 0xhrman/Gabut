@@ -9,8 +9,8 @@ $output = curl_exec($ch);
 $dec = json_decode($output);
 foreach($dec->data->resolutions as $key){
 print_r($key->hostname."\n");
-// $save = @fopen("revip.txt", "a");
-// fwrite($save, $key->hostname."\n");
-// fclose($save);
+$save = @fopen("revip.txt", "a");
+fwrite($save, $key->hostname."\n");
+fclose($save);
 }
 ?>
