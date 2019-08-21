@@ -8,4 +8,4 @@ Tools ini untuk kebutuhan sehari-hari
 4. Remove duplicate
 
 ## Preview
-![preview](https://raw.githubusercontent.com/0dayherman/Gabut/master/gabut.png)
+![preview]Reverse IP & Grab Subdomain(https://raw.githubusercontent.com/0dayherman/Gabut/master/gabut.png)
